@@ -149,23 +149,23 @@
           <div class="px-2 pt-2 pb-3 sm:px-3">
             <a
               href="#"
-              class="block px-3 py-2 rounded-md text-base font-medium text-white bg-gray-900 focus:outline-none focus:text-white focus:bg-gray-700"
+              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
             >Dashboard</a>
             <a
               href="#"
-              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
             >Leitungsteam</a>
             <a
               href="#"
-              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
             >Anlässe</a>
             <a
               href="#"
-              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
             >Jahresplan</a>
             <a
               href="#"
-              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+              class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
             >Aufgaben</a>
           </div>
           <div class="pt-4 pb-3 border-t border-gray-700">
@@ -178,22 +178,22 @@
                 >
               </div>
               <div class="ml-3">
-                <div class="text-base font-medium leading-none text-white">Tom Cook</div>
-                <div class="mt-1 text-sm font-medium leading-none text-gray-400">tom@example.com</div>
+                <div class="text-base font-medium leading-none text-white">Savan Cvijetic</div>
+                <div class="mt-1 text-sm font-medium leading-none text-gray-400">Savan.Cvijetic@icloud.com</div>
               </div>
             </div>
             <div class="mt-3 px-2">
               <a
                 href="#"
-                class="block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+                class="block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
               >Dein Profil</a>
               <a
                 href="#"
-                class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+                class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
               >Einstellungen</a>
               <a
                 href="#"
-                class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700"
+                class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-50 hover:text-blue-500 hover:bg-gray-50 focus:outline-none focus:text-blue-500 focus:bg-gray-50"
               >Abmelden</a>
             </div>
           </div>
