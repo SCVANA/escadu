@@ -1,0 +1,33 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_17_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke-width="0" stroke="#007fff" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_2" cy="347.38155" cx="65.63178" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#000" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_4" cy="343.96151" cx="345.53046" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#000" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_7" cy="336.41434" cx="199.30404" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#007fff" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_8" cy="190.30608" cx="69.87706" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#000" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_9" cy="191.60303" cx="342.70027" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#000" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_10" cy="215.65963" cx="195.53046" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#007fff" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_11" cy="49.26835" cx="52.42423" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#000" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_12" cy="55.75397" cx="340.81348" fill="#ffffff"/>
+  <ellipse stroke-width="0" stroke="#000" canvas-opacity="1" canvas="#ea0000" ry="50" rx="50" id="svg_13" cy="66.60302" cx="199.77574" fill="#ffffff"/>
+  <line stroke-width="15" id="svg_14" y2="211.32075" x2="67.92453" y1="332.54717" x1="60.37736" stroke="#ffffff" fill="none"/>
+  <line stroke-width="15" id="svg_15" y2="211.32075" x2="67.92453" y1="332.54717" x1="60.37736" stroke="#ffffff" fill="none"/>
+  <line filter="url(#svg_17_blur)" stroke="#ffffff" stroke-width="15" id="svg_17" y2="49.0566" x2="47.64151" y1="164.62264" x1="72.16981" fill="none"/>
+  <line transform="rotate(13.266392707824707 199.05660247802734,298.8207473754883)" stroke="#ffffff" stroke-width="15" id="svg_18" y2="241.03773" x2="186.79245" y1="356.60377" x1="211.32075" fill="none"/>
+  <line transform="rotate(-43.88820266723633 199.29253387451172,183.25461959838867)" stroke="#ffffff" stroke-width="15" id="svg_19" y2="126.24921" x2="245.88182" y1="240.26003" x1="152.70324" fill="none"/>
+  <line transform="rotate(-53.427085876464844 362.02838134765625,272.87725830078125)" stroke="#ffffff" stroke-width="15" id="svg_21" y2="215.87185" x2="408.61767" y1="329.88267" x1="315.4391" fill="none"/>
+  <line transform="rotate(-26.55640411376953 331.83970642089844,117.6885871887207)" stroke="#ffffff" stroke-width="15" id="svg_22" y2="60.68317" x2="378.42899" y1="174.69399" x1="285.25042" fill="none"/>
+  <line transform="rotate(51.3539 147.406 348.349)" stroke="#ffffff" stroke-width="15" id="svg_23" y2="291.34356" x2="193.99503" y1="405.35437" x1="100.81646" fill="none"/>
+  <line transform="rotate(41.8559 287.972 337.5)" stroke="#ffffff" stroke-width="15" id="svg_24" y2="280.4945" x2="334.56106" y1="394.50532" x1="241.38249" fill="none"/>
+  <line transform="rotate(41.8559 129.01 62.5)" stroke="#ffffff" stroke-width="15" id="svg_25" y2="5.4945" x2="175.59879" y1="119.50532" x1="82.42022" fill="none"/>
+  <line transform="rotate(41.8559 129.01 62.5)" stroke="#ffffff" stroke-width="15" id="svg_26" y2="5.4945" x2="175.59879" y1="119.50532" x1="82.42022" fill="none"/>
+  <line transform="rotate(61.622032165527344 272.4057388305664,60.14141845703125)" stroke="#ffffff" stroke-width="15" id="svg_27" y2="3.13601" x2="318.99502" y1="117.14683" x1="225.81645" fill="none"/>
+  <line transform="rotate(61.62200164794922 133.72649002075195,214.38670349121094)" stroke="#ffffff" stroke-width="15" id="svg_28" y2="157.38129" x2="180.31577" y1="271.39211" x1="87.1372" fill="none"/>
+  <line transform="rotate(38.87727355957031 275.2359161376953,203.53765106201172)" stroke="#ffffff" stroke-width="15" id="svg_29" y2="146.53224" x2="321.8252" y1="260.54306" x1="228.64663" fill="none"/>
+ </g>
+</svg>
